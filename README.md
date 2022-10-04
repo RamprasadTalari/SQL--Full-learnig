@@ -1,1 +1,1 @@
-# SQL--Full-learnig
+# SQL-Full-learning
